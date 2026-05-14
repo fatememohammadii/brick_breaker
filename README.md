@@ -3,6 +3,8 @@
 
 Bu proje, klasik Breakout (blok kırma) mekaniklerini modern web teknolojileri ve hibrit kontrol sistemleri ile birleştiren bir oyun projesidir.
 
+canlı oyun: https://fatememohammadii.github.io/brick_breaker/
+
 ## Esin Kaynağı
 * **Oyun Adı:** Bricker Breaks Free
 * **Yarışma:** GMTK Game Jam 2023 (Sıralama: Top %10)
